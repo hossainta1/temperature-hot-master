@@ -1,4 +1,4 @@
-// Do no show API key on your js files.
+
 const apiKey = '4e7a1e14b81adf0c34808967884eba5a'
 
 
